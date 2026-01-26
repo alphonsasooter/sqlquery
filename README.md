@@ -2,7 +2,7 @@
 
 An interactive web application for learning SQL with real-time query execution, visual results, and AI-powered explanations.
 
-## 🚀 [Live Demo](https://alphonsasooter.github.io/sqlquery/)
+## 🚀 [Live Demo](https://alphonsasooter.github.io/SQLViewe/)
 
 ## ✨ Features
 
