@@ -10,5 +10,4 @@ An interactive web application for learning SQL with real-time query execution, 
 - Sample Database with Employees, Departments, and Projects
 - Visual Results with Query Statistics
 - JOIN Diagrams (Venn diagrams)
-- AI-Powered Query Explanations
 - Pre-built Sample Queries
