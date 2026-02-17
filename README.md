@@ -2,7 +2,7 @@
 
 An interactive web application for learning SQL with real-time query execution, visual results, and AI-powered explanations.
 
-##(https://sqlview.netlify.app/)
+## (https://sqlview.netlify.app/)
 
 ## ✨ Features
 
