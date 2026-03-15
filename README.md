@@ -2,8 +2,6 @@
 
 An interactive web application for learning SQL with real-time query execution, visual results.
 
-## https://sqlview.netlify.app
-
 ## ✨ Features
 
 - Execute SQL Queries (SELECT, JOIN, WHERE, GROUP BY)
@@ -11,3 +9,6 @@ An interactive web application for learning SQL with real-time query execution, 
 - Visual Results with Query Statistics
 - JOIN Diagrams (Venn diagrams)
 - Pre-built Sample Queries
+
+
+#Click[https://sqlview.netlify.app]
