@@ -11,4 +11,4 @@ An interactive web application for learning SQL with real-time query execution, 
 - Pre-built Sample Queries
 
 
-## Click [https://sqlview.netlify.app]
+## [Click https://sqlview.netlify.app]
